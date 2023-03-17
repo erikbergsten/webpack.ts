@@ -1,8 +1,5 @@
 import * as ReactDOM from 'react-dom/client';
-
-export function foo(): number {
-  return 123;
-}
+import './index.css';
 
 function App() {
   return (
